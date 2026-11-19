@@ -1,3 +1,8 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="./1-banner.png" alt="Jhonatan Rafael - hardware hacking lab" width="100%" />
+</p>
+
 <!-- HEADER ANIMADO ESTILO TERMINAL -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&height=50&lines=%5B%2B%5D+INITIALIZING+H.E.R.M.E.S+PROTOCOL...;%5B%2B%5D+OPERATOR%3A+JHWONY123;%5B%2B%5D+ACCESS_LEVEL%3A+CLASSIFIED;%5B%2B%5D+SYSTEM_STATUS%3A+ONLINE" alt="Typing SVG" />
