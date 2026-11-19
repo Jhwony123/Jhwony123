@@ -1,0 +1,11 @@
+{
+  "username": "Jhwony123",
+  "theme": "matrix",
+  "outputDir": ".gitskins",
+  "widgets": [
+    "card",
+    "languages",
+    "streak",
+    "stats"
+  ]
+}
