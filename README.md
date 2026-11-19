@@ -42,9 +42,7 @@ experiencia. Feito com React, TypeScript e Vite.
   <img src=".gitskins/stats.png" alt="GitHub stats" width="48%" />
   <img src=".gitskins/streak.png" alt="Contribution streak" width="48%" />
 </p>
-<p align="center">
-  <img src=".gitskins/languages.png" alt="Top languages" width="60%" />
-</p>
+
 
 <p align="center">
   <code>[+] PROTOTIPO EM DESENVOLVIMENTO. SIMULACAO, NAO HARDWARE REAL.</code>
