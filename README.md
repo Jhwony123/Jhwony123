@@ -10,17 +10,17 @@
 
 ## `> whoami`
 
-Garcom de dia, construtor de noite. Estou migrando para tecnologia montando
-projetos reais: eletronica, hardware hacking e web. Cada missao que eu completo
-no laboratorio vira algo que eu sei fazer com as maos, nao so na teoria.
+Estou aprendendo a construir: eletronica, hardware hacking e web. Este perfil
+documenta meus prototipos e o que vou descobrindo no caminho.
 
 ## `> projeto em destaque`
 
-### 🛰️ AETHER Lab (privado)
+### 🛰️ AETHER Lab (privado, em desenvolvimento)
 
-Laboratorio interativo de hardware hacking: minicurso gamificado com missoes
-praticas (boot/terminal, multimetro, solda, firmware) e um projeto final de
-desbloqueio de drone. Feito com React, TypeScript e Vite.
+Prototipo de laboratorio interativo simulado de hardware hacking: minicurso
+gamificado com missoes de boot/terminal, multimetro, solda e firmware. As
+missoes rodam em simulacao no navegador; o objetivo e aprender a construir a
+experiencia. Feito com React, TypeScript e Vite.
 
 ## `> habilidades em treino`
 
@@ -42,5 +42,5 @@ desbloqueio de drone. Feito com React, TypeScript e Vite.
 </p>
 
 <p align="center">
-  <code>[+] BUILD EM ANDAMENTO... NADA AQUI E PROMESSA, TUDO E PRATICA.</code>
+  <code>[+] PROTOTIPO EM DESENVOLVIMENTO. SIMULACAO, NAO HARDWARE REAL.</code>
 </p>
