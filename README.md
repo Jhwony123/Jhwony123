@@ -16,6 +16,23 @@ documenta meus prototipos e o que vou descobrindo no caminho.
 No momento estudando o mapa de diretorios do Linux (/bin, /etc, /home, /var...)
 e comandos de terminal, aplicados nas missoes do laboratorio.
 
+## `> cidade de contribuicoes`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Jhwony123?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&format=svg&weeks=26&theme=purple&dark=true">
+  <img src="https://ssr-contributions-svg.vercel.app/_/Jhwony123?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&format=svg&weeks=26&theme=purple" alt="Cidade de contribuicoes" width="620">
+</picture>
+
+<sub>contribuicoes publicas no GitHub · ultimas 26 semanas · atualiza automaticamente</sub>
+</div>
+
+## `> stack & projetos`
+
+<div align="center">
+  <img src="./3-painel-projetos.png" alt="Stack, atividade e projetos em destaque" width="896">
+</div>
+
 ## `> projeto em destaque`
 
 ### 🛰️ AETHER Lab (privado, em desenvolvimento)
