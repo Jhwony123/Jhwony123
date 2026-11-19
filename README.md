@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="./1-1-banner.png" alt="Jhonatan Rafael - hardware hacking lab" width="100%" />
+  <img src="./3-banner-anim.svg" alt="Jhonatan Rafael - hardware hacking lab" width="100%" />
 </p>
 
 <!-- HEADER ANIMADO ESTILO TERMINAL -->
