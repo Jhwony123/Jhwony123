@@ -1,23 +1,60 @@
-<!-- HEADER ANIMADO ESTILO TERMINAL -->
+<!-- BANNER CYBERPUNK PIXEL ART -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FCEE0A&background=0A0612&center=true&vCenter=true&width=600&height=50&lines=%5B%2B%5D+INITIALIZING+H.E.R.M.E.S+PROTOCOL...;%5B%2B%5D+OPERATOR%3A+RAYGUN;%5B%2B%5D+ACCESS_LEVEL%3A+CLASSIFIED;%5B%2B%5D+SYSTEM_STATUS%3A+ONLINE" alt="Typing SVG" />
+  <img src="./1-painel-cena-v2.gif" alt="Raygun - hardware hacking lab" width="100%" />
 </p>
 
-### `~ $ whoami`
+<h2 align="center"><code>[+] RAYGUN // HARDWARE HACKING LAB</code></h2>
+<p align="center"><code>LEARN. BUILD. BREAK. REPEAT.</code></p>
 
-<img src="./3-raygun-personagem.png" alt="Raygun" width="240" align="right" />
+<table>
+<tr>
+<td valign="top">
 
-```text
-raygun — aprendendo a construir: eletrônica,
+<h3><code>~ $ whoami</code></h3>
+
+<pre>
+raygun: aprendendo a construir: eletrônica,
 hardware hacking e web. Este perfil documenta
 meus protótipos e o que vou descobrindo no caminho.
 
 no momento: mapa de diretórios do Linux
 (/bin, /etc, /home, /var...) e comandos de terminal,
 aplicados nas missões do laboratório.
-```
+</pre>
 
-<br clear="right" />
+<h3><code>~ $ cat linguagens-dos-repos.txt</code></h3>
+
+<pre>
+typescript  ████████████████████  90%
+scss        ██                     9%
+</pre>
+
+<p>Em estudo:</p>
+<p>
+  <img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/TERMINAL-0d1117?style=for-the-badge&logo=gnubash&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/ELETRONICA-0d1117?style=for-the-badge&logo=arduino&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/SOLDA-0d1117?style=for-the-badge&logo=solder&logoColor=FF2A6D" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=FCEE0A" />
+  <img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=FCEE0A" />
+</p>
+
+<h3><code>~ $ stats</code></h3>
+
+<pre>
+repositories   2 public
+stars          0
+followers      2
+contributions  26 (last 12 months)
+</pre>
+
+</td>
+<td width="330" valign="middle" align="center">
+  <img src="./3-raygun-personagem.png" alt="Raygun" width="300" />
+</td>
+</tr>
+</table>
 
 ### `~ $ ls projects --sort=stars`
 
@@ -29,32 +66,6 @@ aplicados nas missões do laboratório.
 <tr><td align="left"><a href="https://github.com/Jhwony123/Jhwony123">Jhwony123</a></td><td align="left">Este perfil.</td><td align="right">0</td></tr>
 </tbody>
 </table>
-
-### `~ $ cat stack.txt`
-
-```text
-typescript  ████████████████████  90%
-scss        ██                     9%
-```
-
-<p>
-  <img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=FCEE0A" />
-  <img src="https://img.shields.io/badge/TERMINAL-0d1117?style=for-the-badge&logo=gnubash&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=FCEE0A" />
-  <img src="https://img.shields.io/badge/ELETRONICA-0d1117?style=for-the-badge&logo=arduino&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/SOLDA-0d1117?style=for-the-badge&logo=solder&logoColor=FF2A6D" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-0d1117?style=for-the-badge&logo=typescript&logoColor=FCEE0A" />
-  <img src="https://img.shields.io/badge/REACT-0d1117?style=for-the-badge&logo=react&logoColor=FCEE0A" />
-</p>
-
-### `~ $ stats`
-
-```text
-repositories   2 public
-stars          0
-followers      2
-contributions  26 (last 12 months)
-```
 
 ### `~ $ ./cidade-de-contribuicoes`
 
@@ -75,4 +86,4 @@ contributions  26 (last 12 months)
   <code>[+] PROTOTIPO EM DESENVOLVIMENTO. SIMULACAO, NAO HARDWARE REAL.</code>
 </p>
 
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<sub>Base: Plain Terminal · personalizado com Raygun · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
